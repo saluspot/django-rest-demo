@@ -6,3 +6,9 @@
 
 # Python3
 __pycache__
+
+# Virtualenv
+.virtualenv
+
+# Database
+src/db.sqlite3
