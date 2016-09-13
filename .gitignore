@@ -1,0 +1,8 @@
+# Emacs
+*~
+
+# Python2
+*.pyc
+
+# Python3
+__pycache__
